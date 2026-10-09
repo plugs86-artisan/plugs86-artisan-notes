@@ -1,6 +1,6 @@
-# Ideas — day 283
+# Log — day 283
 
-- reviewed rust notes
-- drafted a checklist
+- reviewed algorithms notes
+- drafted a design
 - next: write tests
-- seed: 8f5f548d
+- seed: a07a5ad3
