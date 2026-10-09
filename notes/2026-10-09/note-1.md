@@ -1,6 +1,6 @@
-# Scratch — day 281
+# Notes — day 281
 
 - reviewed rust notes
-- refactored a script
+- drafted a module
 - next: benchmark
-- seed: aa2b7844
+- seed: b2fe22f1
